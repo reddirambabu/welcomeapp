@@ -1,0 +1,33 @@
+.app-container {
+  background-color: lightblue;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #6527f5;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+  margin-bottom: 0px;
+}
+.paragraph {
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+}
+.button {
+  color: #211e27;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+  background-color: wheat;
+  border-radius: 2px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 12px;
+}
